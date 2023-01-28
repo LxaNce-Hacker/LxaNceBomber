@@ -1,0 +1,334 @@
+{
+  "version": "1.0",
+  "created_by": "https://github.com/LxaNce-Hacker/",
+  "providers": {
+    "91": [
+      {
+        "name": "airtel",
+        "method": "GET",
+        "url": "https://www.airtel.in/referral-api/core/notify?messageId=map&rtn=",
+        "identifier": "Success"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      },
+      {
+        "name": "flipkart",
+        "method": "POST",
+        "cc_target": "loginId",
+        "url": "https://2.rome.api.flipkart.com/api/5/user/otp/generate",
+        "target_param": "loginId",
+        "data": {
+          "loginId": "+"
+        },
+        "headers": {
+          "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0 FKUA/website/42/website/Desktop",
+          "Origin": "https://www.flipkart.com",
+          "Content-Type": "application/x-www-form-urlencoded"
+        },
+        "identifier": "emailMask"
+      }
+    ]
+  }
+}
